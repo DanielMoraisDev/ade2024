@@ -1,0 +1,3 @@
+Backend
+Sequelize: https://obsidian-canopy-a33.notion.site/Sequelize-ORM-138b957e123980ff8d05e873da676d73
+JWT: https://obsidian-canopy-a33.notion.site/JWT-JSONWEBTOKEN-138b957e1239808ab67aec505aac0ccb
