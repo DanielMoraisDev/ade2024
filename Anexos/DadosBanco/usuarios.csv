@@ -1,4 +1,4 @@
-cod,nome,nick_name,email,telefone,senha
+usuario_id,nome,nick_name,email,telefone,senha
 1,Usuario 1,user1,user1@user.com,11111111111,usuario1111
 2,Usuario 2,user2,user2@user.com,22222222222,usuario2222
 3,Usuario 3,user3,user3@user.com,33333333333,usuario3333
